@@ -1,5 +1,5 @@
 # Overview
-=====================
+
 ### Motivation:
 Our motivation with Poinsly is to gain a better understanding on how to make a programming language.
 
