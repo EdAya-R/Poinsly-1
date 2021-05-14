@@ -21,12 +21,9 @@ and it would give you the result of said equation and a corresponding graph.
 We used Python through Anaconda since it was required in order to use SLY, Cmath, numpy and matplotlib
 
 --------------------------------------------------------
-Explanation video: 
-https://youtu.be/XQJEUbpsRwc
+[Explanation Video](https://youtu.be/XQJEUbpsRwc)
 --------------------------------------------------------
-Anaconda Link:
-https://www.anaconda.com/products/individual
+[Anaconda Link](https://www.anaconda.com/products/individual)
 --------------------------------------------------------
-SLY Documentation Link:
-https://sly.readthedocs.io/en/latest/index.html
+[SLY Documentation](https://sly.readthedocs.io/en/latest/index.html)
 --------------------------------------------------------
