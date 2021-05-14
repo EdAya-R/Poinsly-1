@@ -2,8 +2,8 @@
 
 ## Authors
 
-Edmanuel Ayala
-Jorge Huertas
+* Edmanuel Ayala
+* Jorge Huertas
 
 ### Motivation:
 Our motivation with Poinsly is to gain a better understanding of how to make a programming language.
